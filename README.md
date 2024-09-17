@@ -8,7 +8,7 @@
 <a href="https://instagram.com/9.rkf" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="9.rkf" height="30" width="40" />
 </a>
-<a href="https://discord.gg/vetox-support-854427443062374472" target="blank">
+<a href="https://discord.gg/vetox" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/yWAVkkSthz" height="30" width="40" />
 </a>
 </p>
